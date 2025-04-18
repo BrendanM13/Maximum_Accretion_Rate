@@ -1,0 +1,5 @@
+git init
+git add README.md
+git add short-plasticc-kit.ipynb
+git commit -m "notebook 1st commit"
+
